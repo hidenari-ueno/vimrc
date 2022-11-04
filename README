@@ -1,0 +1,6 @@
+# vimの設定
+1. vimの最新版をbrewでインストール
+1. .vimディレクトリを作成
+1. .vim/配下にvimrcをクローン
+1. Vundlevimをクローン
+
